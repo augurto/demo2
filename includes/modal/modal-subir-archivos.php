@@ -14,7 +14,7 @@
 
 
 <!-- Modal -->
-<form action="../../includes/process/insert/insertar_archivo.php" method="post"  enctype="multipart/form-data" >
+<form action="../../includes/process/insert/insertar_archivo_nuevo.php" method="post"  enctype="multipart/form-data" >
 <div class="modal fade" id="modal-subir-archivos" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered" role="document">
     <div class="modal-content">
